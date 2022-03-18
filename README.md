@@ -2,6 +2,8 @@
 # A simple recipe App
 
 - Created with React.js
+- React Routing
+- Framer Motion
 - Using the Spoonacular API-key
 
 # Author

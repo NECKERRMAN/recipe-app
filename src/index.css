@@ -1,3 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +17,21 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h4{
+  font-size: 1rem;
+  color: #5d5c5c;
+}
+
+h3{
+  font-size: 1.5rem;
+  color: #5d5c5c;
+  line-height: 2.5rem;
+  margin: 2rem 0;
+}
+
+a{
+  color: #5d5c5c;
+
 }
